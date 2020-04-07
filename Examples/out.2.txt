@@ -1,0 +1,6 @@
+Együttes eloszlás entrópiája: 2.046439344671015
+Kszi peremeloszlas entrópiája: 1.0
+Eta peremeloszlas entrópiája: 1.360964047443681
+Kszi feltételes entrópiája eta-ra nézve: 0.6854752972273341
+Eta feltételes entrópiája kszi-re nézve: 1.0464393446710152
+Kszi és eta kölcsönös információ mennyisége: 0.31452470277266587
